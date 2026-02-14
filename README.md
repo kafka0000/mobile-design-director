@@ -14,13 +14,13 @@ Covers **SwiftUI**, **Flutter**, **Jetpack Compose**, and **React Native**.
 
 ```bash
 # Install to all detected coding agents
-npx skills add kafka000/mobile-design-director
+npx skills add kafka0000/mobile-design-director
 
 # Install to specific agents
-npx skills add kafka000/mobile-design-director -a claude-code -a cursor -a antigravity
+npx skills add kafka0000/mobile-design-director -a claude-code -a cursor -a antigravity
 
 # Global install
-npx skills add kafka000/mobile-design-director -g
+npx skills add kafka0000/mobile-design-director -g
 ```
 
 Supports 35+ tools: Antigravity, Claude Code, Cursor, Codex, Windsurf, Cline, Trae, OpenCode, and more.
